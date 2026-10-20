@@ -1,0 +1,3 @@
+#Fitfh test, fireing from the primary torpedoStore
+GT4500,1,0,1,0
+TORPEDO,SINGLE
