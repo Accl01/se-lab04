@@ -1,0 +1,3 @@
+#10-th, test Trying to fire all torpedos but only the secoundary is loaded
+GT4500,0,0,1,0
+TORPEDO,ALL

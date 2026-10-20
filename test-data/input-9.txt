@@ -1,0 +1,4 @@
+#9-th test, Trying to fire twice but it only has 1 torpedo
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
