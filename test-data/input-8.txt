@@ -1,0 +1,3 @@
+#Eigth test, Trying to fire all torpedoStores but all are empty
+GT4500,0,0,0,0
+TORPEDO,ALL
