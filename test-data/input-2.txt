@@ -1,0 +1,4 @@
+#Second test, trying to fire two times
+GT4500,1,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

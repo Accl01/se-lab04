@@ -1,0 +1,3 @@
+#Sixth test, trying to fire from faild torpedoStore
+GT4500,1,1.0,1,0
+TORPEDO,SINGLE

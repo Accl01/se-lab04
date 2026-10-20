@@ -1,0 +1,3 @@
+#Fourth test, fireing from the scoundary torpedoStore
+GT4500,0,0,1,0
+TORPEDO,SINGLE

@@ -1,0 +1,4 @@
+#Seventh test, We fire twice but only the first torpedoStore is loaded
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
